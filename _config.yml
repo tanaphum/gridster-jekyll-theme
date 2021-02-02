@@ -2,7 +2,7 @@ full_rebuild: true
 name: Gridster
 description: the material experience for jekyll
 destination: jekyllbuild
-url: "/gridster-jekyll-theme"
+url: "gridster-jekyll-theme"
 baseurl: ""
 permalink: /:title/
 paginate: 8
